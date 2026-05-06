@@ -51,6 +51,6 @@ Works with any PDF-based knowledge source
 
 # Note
 
-If the answer is not found in the document, the system responds with:\n
+If the answer is not found in the document, the system responds with:
 
 "I don't know based on the provided document."
