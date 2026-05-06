@@ -21,9 +21,10 @@ Builds the knowledge base:
 - Loads PDF documents from /data
 - Splits text into chunks (size: 500, overlap: 50)
 - Converts chunks into embeddings using all-MiniLM-L6-v2
-Stores:
-- FAISS index → /store/faiss_index
-- Document chunks → /store/chunks
+  
+- Stores:
+   - FAISS index → /store/faiss_index
+   - Document chunks → /store/chunks
   
 # 2. Retriever (retriever.py)
 - Loads FAISS index and chunk data
