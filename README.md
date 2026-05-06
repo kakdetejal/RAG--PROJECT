@@ -11,7 +11,8 @@ The system processes the PDF document and enables intelligent question-answering
 - Vector Search (FAISS) → Retrieves relevant content
 - Embeddings (Sentence Transformers) → Converts text into vectors
 - LLM (Groq API) → Generates final answers
-- Project Architecture
+
+## Project Architecture
   
 # 1. Ingestion Pipeline (ingest.py)
 
