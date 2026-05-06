@@ -42,3 +42,15 @@ Simple command-line interface
 Users can:
 - Ask questions
 - Type exit or quit to stop
+
+# Key Features
+Efficient semantic search using FAISS
+Context-aware answers (reduces hallucination)
+Modular and scalable design
+Works with any PDF-based knowledge source
+
+# Note
+
+If the answer is not found in the document, the system responds with:\n
+
+"I don't know based on the provided document."
