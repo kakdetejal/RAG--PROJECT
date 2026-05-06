@@ -46,10 +46,10 @@ Users can:
 - Type exit or quit to stop
 
 # Key Features
-Efficient semantic search using FAISS
-Context-aware answers (reduces hallucination)
-Modular and scalable design
-Works with any PDF-based knowledge source
+- Efficient semantic search using FAISS
+- Context-aware answers (reduces hallucination)
+- Modular and scalable design
+- Works with any PDF-based knowledge source
 
 # Note
 
